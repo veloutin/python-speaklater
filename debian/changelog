@@ -1,3 +1,9 @@
+python-speaklater (1.2~ppa7) precise; urgency=low
+
+  * Package for precise
+
+ -- Vincent Vinet <vvinet@revolutionlinux.com>  Wed, 30 Oct 2013 14:22:14 -0400
+
 python-speaklater (1.2~ppa6) lucid; urgency=low
 
   * Initial release.
